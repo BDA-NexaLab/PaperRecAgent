@@ -1,0 +1,36 @@
+# 데이터 처리
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# 웹 요청 / 파싱
+requests==2.32.4
+lxml==5.4.0
+
+# URL / 문자열 처리
+urllib3==2.5.0
+
+# 암호화
+pycryptodomex==3.19.0
+
+# 자연어 처리 (한국어)
+konlpy==0.6.0
+nltk==3.9.0
+
+# 텍스트 벡터화 및 LDA
+scikit_learn==1.6.1
+gensim==4.3.3
+
+# Transformers & Language Models
+transformers==4.57.0
+torch==2.8.0
+bitsandbytes==0.42.0
+
+# 임베딩 및 토픽 모델링
+sentence_transformers==5.1.1
+bertopic==0.17.3
+hdbscan==0.8.40
+umap-learn==0.5.9.post2
+
+# 기타 유틸
+plotly==5.24.1

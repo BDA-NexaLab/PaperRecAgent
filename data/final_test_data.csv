@@ -1,0 +1,182 @@
+﻿입력id,입력,추천결과,구분,추천수준
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Nucleotide sequences of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,dataset,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,"From Recharge, to Groundwater, to Discharge Areas in Aquifer Systems in Quebec (Canada): Shaping of Microbial Diversity and Community Structure by Environmental Factors",paper,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Hydrogen and dark oxygen drive microbial productivity in diverse groundwater ecosystems,paper,추천
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,"Linking Groundwater to Surface Discharge Ecosystems: Archaeal, Bacterial, and Eukaryotic Community Diversity and Structure in Quebec (Canada)",paper,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Energy efficiency and biological interactions define the core microbiome of deep oligotrophic groundwater,paper,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Microbial biogeography of the eastern Yucatán carbonate aquifer,paper,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Balancing Act: Groundwater microbiome’s resilience and vulnerability to hydroclimatic extremes,paper,참고
+66dd38ee92a4be4030294ea13691fd1e,Relative abundances of archaeal amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,Relative abundances of bacterial amplicon sequence variants (ASV) from Canadian Prairie groundwater ecosystems,dataset,참고
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,Spatiotemporal Analysis of Human Intestinal Development at Single Cell Resolution: Supplementary Data,dataset,참고
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,CSS: cluster similarity spectrum integration of single-cell genomics data,paper,강추
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,Evaluating single-cell cluster stability using the Jaccard similarity index,paper,참고
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,Comparison of clustering tools in R for medium-sized 10x Genomics single-cell RNA-sequencing data,paper,참고
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,Semi-supervised integration of single-cell transcriptomics data,paper,참고
+454f2a43934b2bbe821e141fb468805c,Cluster similarity spectrum integration of single-cell genomics data,Benchmarking atlas-level data integration in single-cell genomics,paper,참고
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Lung gene regulatory network,dataset,참고
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Tissue-specific gene regulatory networks inferred with GRNBoost2 (arboreto),dataset,참고
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Tissue-specific gene regulatory networks inferred with ANANSE 0.2.0,dataset,참고
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Trans-eQTLs Can Be Used to Identify Tissue-Specific Gene Regulatory Networks,paper,강추
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Transcription Factor Activity Mapping of a Tissue-Specific In Vivo Gene Regulatory Network,paper,참고
+ab592ddaf3c42bebb99178d8791b4c00,Tissue-specific Gene Regulatory Networks,Tissue-specific regulatory network extractor (TS-REX): a database and software resource for the tissue and cell type-specific investigation of transcription factor-gene networks,paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,Proteomic data of seminal plasma and spermatozoa of four purebred dogs,dataset,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,Protein Fingerprinting of Seminal Plasma Reveals Dysregulation of Exosome-Associated Proteins in Infertile Men with Unilateral Varicocele,paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,PD36-09 DIFFERENTIAL EXPRESSION OF SEMINAL PLASMA PROTEINS IN RESPONDERS AND NON-RESPONDERS TO VARICOCELE TREATMENT,paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,Proteomics and Metabolomics in Varicocele-Associated Male Infertility: Advancing Precision Diagnostics and Therapy,paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,"Molecular pathways of varicocele and its repair – A paired labelled shotgun proteomics approach (Camargo et al., Journal of Proteomics, 2019)",paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,"Seminal Plasma Proteomic Biomarkers of Oxidative Stress (Cannarella et al., Int J Mol Sci, 2020)",paper,참고
+dd29c711a63e5fe8875030b994c236f7,Proteomic Profiling of Seminal Plasma Proteins in Varicocele Patients,"Changes in the seminal plasma proteome of adolescents before and after varicocelectomy (Del Giudice et al., Fertility and Sterility, 2013)",paper,참고
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),Analysis of MicroRNAs in Apis cerana larvae in Response to Chinese Sacbrood Virus (CSBV) Infection,dataset,참고
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),"Codon Optimization, Expression in Escherichia coli , and Immunogenicity of Recombinant Chinese Sacbrood Virus (CSBV) Structural Proteins VP1, VP2, and VP3",paper,강추
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),Molecular and Biological Characterization of Chinese Sacbrood Virus LN Isolate,paper,참고
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),Proteomic Analysis of Apis cerana and Apis mellifera Larvae Fed with Heterospecific Royal Jelly and by CSBV Challenge,paper,참고
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),"Correction: Codon Optimization, Expression in Escherichia coli, and Immunogenicity of Recombinant Chinese Sacbrood Virus (CSBV) Structural Proteins VP1, VP2, and VP3 – Fei, Dongliang 외, PloS One, 2015",paper,참고
+5dcb611434bb4edec75dd684b91b6be9,Supporting Information(Immunogenicity study of CSBV structural proteins),"Purification of Chinese Sacbrood Virus (CSBV), Gene Cloning and Prokaryotic Expression of its Structural Protein VP1 – Wu, Pengjie 외, Molecular Biotechnology, 2018",paper,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,"Dataset associated with 'An in-frame deletion mutation in the degron tail of auxin co-receptor IAA2 confers resistance to the herbicide 2,4-D in Sisymbrium orientale'",dataset,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,S239D/I332E 변이 항체 Fc와 FcγRIIIa 수용체의 결합 구조에 대한 전산학적 연구 (In Silico Structural Study on the Binding of Antibody IgG Fc-S239D/I332E variant and FcγRIIIa Receptor),paper,추천
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,LRET-derived HADDOCK structural models describe the conformational heterogeneity required for processivity of the Mre11-Rad50 DNA damage repair complex,paper,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,Modeling Antibody-Antigen Complexes by Information-Driven Docking,paper,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,Exploring the Binding Interaction of Raf Kinase Inhibitory Protein With the N-Terminal of C-Raf Through Molecular Docking and Molecular Dynamics Simulation,paper,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,Predicting nsSNPs that Disrupt Protein-Protein Interactions Using Docking,paper,참고
+2541aa0a4e0952e4df4206ea2ee104c8,HADDOCK models of mutant protein complexes,Blocking the interface region amongst S100A6 and RAGE V domain via S100B protein,paper,참고
+1e0b76806cd220d971845de760c12451,,,,
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),dorsal Moonwalker Ascending Neurons (dMAN),dataset,참고
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),Moonwalker Descending Neurons Mediate Visually Evoked Retreat in Drosophila,paper,강추
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),Olfactory stimuli and moonwalker SEZ neurons can drive backward locomotion in Drosophila,paper,참고
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),TwoLumps Ascending Neurons Mediate Touch-Evoked Reversal of Walking Direction in Drosophila,paper,참고
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),Imaging neural activity in the ventral nerve cord of behaving adult Drosophila,paper,참고
+6905e9e839b57c698931afe6d1200ef6,Moonwalker Descending Neurons (MDN),"Hunchback functions in the post-mitotic larval MDN to restrict axon outgrowth, synapse formation, and backward locomotion",paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Tunable mechanobiology of ferroptotic cancer cells using nanoencapsulation increases the efferocytosis efficiency,dataset,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Cancer cells optimize elasticity for efficient migration,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Shifting the optimal stiffness for cell migration,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Substrate stiffness modulates lung cancer cell migration but not epithelial to mesenchymal transition,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Effect of Nuclear Stiffness on Cell Mechanics and Migration of Human Breast Cancer Cells,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,Cell Migration and Breast Cancer Metastasis in Biomimetic Extracellular Matrices with Independently Tunable Stiffness,paper,참고
+ac72f4f9b7730b9032d0b58347cbe468,Cancer cells optimize elasticity for efficient migration,"Differential modulation of cell morphology, migration, and Neuropilin-1 expression in cancer and non-cancer cell lines by substrate stiffness",paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,Data from: Swapping birth and death: symmetries and transformations in phylodynamic models,dataset,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,A Multitype Birth–Death Model for Bayesian Inference of Lineage-Specific Birth and Death Rates,paper,추천
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,NestedBD: Bayesian inference of phylogenetic trees from single-cell copy number profiles under a birth-death model,paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,The ClaDS rate-heterogeneous birth–death prior for full phylogenetic inference in BEAST2,paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,Locally adaptive Bayesian birth-death model successfully detects slow and rapid rate shifts,paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,Integrating fossil samples with heterogeneous diversification rates: a combined Multi-Type Fossilized Birth-Death model,paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,Improved multi-type birth-death phylodynamic inference in BEAST 2,paper,참고
+8061c93c2ec807e5868c8d6d303127de,A Multi-Type Birth-Death model for Bayesian inference of lineage-specific birth and death rates,Fast and Accurate Maximum-Likelihood Estimation of Multi-Type Birth–Death Epidemiological Models from Phylogenetic Trees,paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Understanding the Migration Patterns of Russian Academics through New Institutional Economics,dataset,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Mapping Longitudinal Migration Patterns from Population-Scale Family Trees,dataset,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,러시아 이주의 현황과 특징 : 극동연방구에 대한 경험적 분석 (Migration Patterns in Russia : An Empirical Study in the Russian Far East),paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Intra-Russian educational migration of youth: the attractiveness of regions for pursuing higher education,paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Bilateral flows and rates of international migration of scholars for 210 countries for the period 1998-2020,paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,"On socialization, patriotism and trust: the migration of homeward-bound Russian academics",paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Does the Socialization of Young Russian Academics Foster Migration?,paper,참고
+0c5c461017ad493572b96f9d11fa9e1c,Population: Migration Patterns of Russian Academics,Russian brain drain: Myths v. reality,paper,참고
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,Census Families Profiles for Community Health Service Areas - 2016 Census,dataset,추천
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,Canadian census families: Adjust or not,paper,추천
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,"인구주택 총조사 자료를 이용한 인구, 가구, 주택 특성과 빈집 현황 분석 (Analysis of the Effects of Population, Household, and Housing Characteristics on the Status of Empty Houses Using Population Housing Census Data)",paper,참고
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,Using Census Data For Research On The Family in Canada,paper,참고
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,Constructing Census Families and Classifying Households: “Relationship to Head of Family or Household” in the 1901 Census of Canada,paper,참고
+4453724b5d10913d7595ccf1526ad141,Census - Census Families,Measurement of Family and Household Composition in Census 2000: An Update,paper,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,GDP data,dataset,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,Causal Relationship between Exports and Agricultural GDP in India,paper,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,"Software and services export, IT investment and GDP nexus in India",paper,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,Causal Relationship between Capital Inflows and GDP: The Case of India (Causal Relationship between Capital Inflows and GDP: The Case of India),paper,추천
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,On The Estimability of Gross National Product In India,paper,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,Gross National Product,paper,참고
+950bcada96c1a02236ccd1299e3bc3d4,India GDP,The Reliability of U.S. Gross National Product,paper,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Estimated Effect of the Budget on Consumer Price Indices and Retail Prices Index,dataset,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Focus on Consumer Prices,dataset,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Consumer Price indices,paper,추천
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,European consumer price indices since 1870,paper,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Web scraped data in consumer price indices,paper,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Changes in retail energy prices and the consumer price index,paper,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,How can big data enhance the timeliness of official statistics? : The case of the U.S. consumer price index,paper,참고
+33e8b6d95eedf4e611d778ba8827afa9,Consumer Price Indices,Assessing the effect of new data sources on the consumer price index: a deterministic approach to uncertainty and sensitivity,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,Mexican Wealth Distribution 1810-1910,dataset,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,지속 가능한 발전을 위한 브라질 경제체제의 전환: 세제개혁을 중심으로Transition of Brazil's Economic System for Sustainable Development: Focusing on Tax Reform,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,상속 · 증여가 가구의 순자산분포에 미친 효과 (The Effects of Inheritance and Gift on the Net Worth Distribution of Household),paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,The Crucial Role of Social Welfare Criteria and Individual Heterogeneity for Optimal Inheritance Taxation,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,On the Accumulation of Wealth: The Role of Inheritances | how do inheritances shape wealth inequality theory and evidence from Sweden,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,"The Institute's Conference on Poverty, Wealth and Income Distribution in Australia: Introduction",paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,"Inheritance, Wealth Distribution, and Estate Taxation",paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,The Impact of Inheritance on the Distribution of Wealth: Evidence from China,paper,참고
+f403604f5ab8efe9cdd1a2658e5a984f,THE ROLE OF INHERITANCE AND TAXATION ON WEALTH AND INCOME DISTRIBUTION IN BRAZIL AND THE STATE OF RIO GRANDE DO SUL,Inheritance and wealth inequality: Evidence from population registers,paper,참고
+2324967d87a7fed6a66e854c57cf9ddf,Changes in school enrollment in 1990-2011 (higher education),History of CPS Enrollment 1999-2014 Open Data,dataset,참고
+2324967d87a7fed6a66e854c57cf9ddf,Changes in school enrollment in 1990-2011 (higher education),Factors associated with college attendance of high-school seniors,paper,참고
+2324967d87a7fed6a66e854c57cf9ddf,Changes in school enrollment in 1990-2011 (higher education),"The impact of the Bolsa Escola/Familia conditional cash transfer program on enrollment, dropout rates and grade promotion in Brazil",paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,"School engagement, SRL and academic achievement",dataset,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Using of reciprocal teaching to enhance academic achievement: a systematic literature review,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Predicting academic performance: a systematic literature review,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Systematic Literature Review: The Effect of Student Interaction on Academic Achievement in Online Learning,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,자기조절 학습전략 훈련이 자기 주도적 학습능력과 학업성취도 및 학습태도에 미치는 영향,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Effects of Educational Technology on Students’ Academic Achievement in Agricultural Education: A Meta-analysis,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Augmented Reality as a Sustainable Technology to Improve Academic Achievement in Students with and without Special Educational Needs,paper,참고
+0c1a90b072d3c9a92810538871c8274c,Data SRL EdTech & Academic Achievement,Using Innovations and Educational Technology Techniques to Deliver Educational Practicum and its effect on Increasing Academic Achievement among Pre-Service Teachers,paper,참고
+b40b77764c58d8b011a3eb2e580c3796,Educational Resources from UC Berkeley RDM Librarian Training Program,EXPLORING THE OPEN EDUCATIONAL RESOURCES IN LIBRARIES,dataset,참고
+b40b77764c58d8b011a3eb2e580c3796,Educational Resources from UC Berkeley RDM Librarian Training Program,Research Data Management Training in Academic Libraries: A Scoping Review,paper,참고
+b40b77764c58d8b011a3eb2e580c3796,Educational Resources from UC Berkeley RDM Librarian Training Program,Developments in research data management in academic libraries: Towards an understanding of research data service maturity,paper,참고
+b40b77764c58d8b011a3eb2e580c3796,Educational Resources from UC Berkeley RDM Librarian Training Program,Modifying researchers’ data management practices : A behavioural framework for library practitioners,paper,참고
+b40b77764c58d8b011a3eb2e580c3796,Educational Resources from UC Berkeley RDM Librarian Training Program,Open Educational Resources,paper,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,Mechanical design BLAZE pilot plant components,dataset,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,High-speed trim-cut videos of laser flame cutting,dataset,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,Trim-cut technique for analysis of melt flow dynamics in industrial laser cutting machine,paper,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,Advanced trim-cut technique to visualize melt flow dynamics inside laser cutting kerfs,paper,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,The Innovation of Using 3D Printing Technology in Mechanical and Manufacturing Engineering,paper,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,Expert systems in mechanical and manufacturing engineering,paper,참고
+edac81b436b0824201f8973e4d6670e4,Mechanical design documentation for the trim-cut setup,Knowledge-based expert systems for mechanical and manufacturing engineering,paper,참고
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,A set of CAD assembly test models to evaluate component interfaces using CAD assembly modules,dataset,참고
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,A structured analysis of CAD assembly model interfaces for their enhanced computerized processing,paper,참고
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,Shape distribution-based approach to comparing 3D CAD assembly models,paper,추천
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,Research on 3D-CAD Oriented Assembly Sequence Modeling System,paper,참고
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,User-assisted integrated method for controlling level of detail of large-scale B-rep assembly models,paper,참고
+32fa506e6919310b23d6cb9565597d4e,3D CAD Assembly test models,Simplification of feature-based 3D CAD assembly data of ship and offshore equipment using quantitative evaluation metrics,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,"KupferDigital mechanical testing datasets: Brinell hardness, Vickers hardness, and tensile tests",dataset,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,KupferDigital mechanical testing datasets: Stress relaxation and low-cycle fatigue (LCF) tests,dataset,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,KupferDigital: Ontology‐Based Digital Representation for the Copper Life Cycle,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,Semantic Representation of Low‐Cycle-Fatigue Testing Data Using a Fatigue Test Ontology and ckan.kupferdigital Data Management System,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,Mechanical testing dataset of cast copper alloys for the purpose of digitalization,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,Mechanical Testing Methods of Micro Structures,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,Automated mechanical testing,paper,참고
+1bdcd37c858cabcb6e0022167c2b4bf2,KupferDigital mechanical testing datasets,Small-Scale Mechanical Testing,paper,참고
+1ef8b00258aad43097b841447d830d4f,Efficient Design of Reversible Sequential Circuit,Efficient Design of Reversible Sequential Circuit,paper,추천
+1ef8b00258aad43097b841447d830d4f,Efficient Design of Reversible Sequential Circuit,Efficient Design Approach of Specific Sequential Circuits using Novel Reversible Gates,paper,참고
+1ef8b00258aad43097b841447d830d4f,Efficient Design of Reversible Sequential Circuit,Quantum Cost Optimization for Reversible Sequential Circuit,paper,참고
+1ef8b00258aad43097b841447d830d4f,Efficient Design of Reversible Sequential Circuit,"Design of reversible sequential circuits optimizing quantum cost, delay, and garbage outputs",paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,OnlineSupplement.xlsx,dataset,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Special issue on “Optimization in electric power distribution systems”,paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Optimal vegetation maintenance scheduling of overhead electric power distribution systems,paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Resiliency-based optimization of restoration policies for electric power distribution systems,paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Integrated parameter data flow in hybrid electric aircraft power management systems,paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Optimal Placement of Remote Controlled Switches in Electric Power Distribution Systems with a Meta-heuristic Approach,paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,"Energy Loss Reduction for Distribution Electric Power Systems with Renewable Power Sources, Reactive Power Compensators, and Electric Vehicle Charge Stations",paper,참고
+55c1e7a362d3f0892b6febb23565f515,Data for Optimization on Electric Power Distribution Systems,Maintenance strategy selection in electric power distribution systems (No.15),paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,Data for: A Benchmark Engineering Methodology to Measure the Overhead of Application-Level Monitoring,dataset,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,Contactless Phase Comparison Method for Overhead Transmission Lines,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,Cost and Performance Comparison of U.S. Overhead Sign Support Structures,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,A Comparison of Fast and Low Overhead Distributed Priority Locks,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,On-Line Temperature Estimation for Noisy Thermal Sensors Using a Smoothing Filter-Based Kalman Predictor,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,a domain-specific language for bytecode instrumentation,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,Performance Evaluation of Dynamic Binary Instrumentation Frameworks,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,DBIMAT: A Runtime Program Monitoring and Performance Analysis Tool Based on Dynamic Program Instrumentation Frameworks,paper,참고
+0ab58f1867932fe4523fa4765f346fc7,Overhead Comparison of Instrumentation Frameworks,An auto-routing multi-server architecture for high-education training on instrumentation and measurement,paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,,dataset,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,Improving the communication of multifactorial cancer risk assessment results for different audiences: a co-design process,paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,Conceptual Architectural Design at Scale: A Case Study of Community Participation Using Crowdsourcing,paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,Co-design in the architectural process,paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,A Systematic Review of Architectural Design Collaboration in Immersive Virtual Environments,paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,"Data processing, analysis, and evaluation methods for co-design of coreless filament-wound building systems",paper,참고
+c48ec67eaae28626214a418e46c5786c,Co-design support methods and tools in the building design process,REN+HOMES Positive Carbon Building Methodology in Co-Design with Residents,paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,Multi-criteria optimization and seismic performance assessment of carbon FRP-based elastomeric isolator,paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,Multi-criteria screening of carbon dioxide utilization products combined with process optimization and evaluation,paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,Impact of agriculture intensification on forest degradation and tree carbon stock; promoting multi‐criteria optimization for restoration in Central India,paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,"A REVIEW OF BIO-BASED MATERIALS AS REINFORCEMENT IN CONCRETE COMPOSITES: MECHANICAL, CARBON CAPTURE, AND SELF-HEALING PERFORMANCE",paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,"HOME: Wood-Mycelium Composites for CO2-Neutral, Circular Interior Construction and Fittings",paper,참고
+4a3d0ca641250f46692a755a22e85dd3,Multi-criteria optimization carbon dioxide through wood and bio-based construction materials,Strawbale buildings as carbon sinks: influence of the design and construction process on carbon emissions,paper,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,GEO Mountains Inventory of In Situ Observational Infrastructure v1.0,dataset,추천
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,GEO Mountains General Inventory v1.0,dataset,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,Coverage of In Situ Climatological Observations in the World's Mountains,paper,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,Advancing Observational Infrastructure in the Arctic,paper,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,"Environmental monitoring in Jiangsu Province: the model of innovation and practice (Jiang et al., 2004)",paper,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,"Development of Networked Environmental Monitoring Data Management Platform (Zhang et al., 2005)",paper,참고
+d790111eaaa8cad3480674fcca0f2a5e,GEO Mountains Inventory of In Situ Observational Infrastructure v2.0,"Environmental Monitoring System for Base Station with Sensor Node Networks (허정인, 김환용, 2009)",paper,참고
